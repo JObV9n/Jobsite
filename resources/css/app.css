@@ -1,0 +1,16 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* For register.blade.php */
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox .login-link {
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.checkbox p {
+    margin-left: 10px;
+}
